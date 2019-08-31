@@ -1,10 +1,8 @@
-### Date created
-August 30, 2019
+### Date created: August 30, 2019
 
-### Project Title
-**US Bikeshare Data Project**
+### Project Title: **US Bikeshare Data Project**
 
-### Description
+### Description:
 This project is a Python script that imports US bike share data, takes in raw input, and answers questions about the data by computing a variety of statistics in an interactive way.
 
 The questions answered are:
@@ -27,11 +25,11 @@ The questions answered are:
   *counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)*
 
-### Files used
+### Files used:
 - bikeshare.py
 - chicago.csv
 - new_york_city.csv
 - washington.csv
 
-### Credits
+### Credits:
 [link] https://github.com/xhlow/udacity-bikeshare-project
