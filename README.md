@@ -14,4 +14,4 @@ This project is a Python script that imports US bike share data, takes in raw in
 - washington.csv
 
 ### Credits
-[1]: https://github.com/xhlow/udacity-bikeshare-project
+[link] https://github.com/xhlow/udacity-bikeshare-project
