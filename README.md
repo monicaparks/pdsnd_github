@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+*August 30, 2019*
 
 ### Project Title
-Replace the Project Title
+**US Bikeshare Data Project**
 
 ### Description
-Describe what your project is about and what it does
+This project is a Python script that imports US bike share data, takes in raw input, and answers questions about the data by computing a variety of statistics in an interactive way.
 
 ### Files used
-Include the files used
+- bikeshare.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[1]: https://github.com/xhlow/udacity-bikeshare-project
