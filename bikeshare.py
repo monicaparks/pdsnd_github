@@ -1,3 +1,4 @@
+""" US Bikeshare Project script for Udacity Nanodegree course"""
 import time
 import pandas as pd
 import numpy as np
