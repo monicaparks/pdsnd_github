@@ -161,9 +161,9 @@ def user_stats(df, city):
         recent_birth = int(df['Birth Year'].max())
         common_birth = df['Birth Year'].mode()[0]
         common_birth = int(common_birth)
-        print("The earliest birth year was: " + str(earliest_birth))
-        print("The most recent birth year was: " + str(recent_birth))
-        print("The most common birth year was: " + str(common_birth))
+        print("The oldest user was born in: " + str(earliest_birth))
+        print("The youngest user was born in: " + str(recent_birth))
+        print("The most popular birth year among users was: " + str(common_birth))
 
     else:
         print("Sorry, no gender or birth data available\n")
